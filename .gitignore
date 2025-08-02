@@ -211,3 +211,24 @@ Landing-Page-MVP.txt
 LandingPage-Architecture.txt
 LandingPage-ReposandTooling.txt
 Landingpagegrader-SOT.txt
+
+#making sure:
+
+# Python
+*.pyc
+__pycache__/
+venv/
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Env files
+.env
+
+
+
+node_modules/
