@@ -230,5 +230,12 @@ venv/
 .env
 
 
-
+backend/venv/
+backend/.env
+backend/__pycache__/
 node_modules/
+frontend/.next/
+frontend/node_modules/
+*.log
+.DS_Store
+Thumbs.db
